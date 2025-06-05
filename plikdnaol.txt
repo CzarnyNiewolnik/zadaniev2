@@ -1,2 +1,6 @@
 ndiahgduaboia
+HEAD
 Zmiana2
+
+Zmiana1
+1ba50f1391ea45782f75ddc7605c3e394492c5cd
